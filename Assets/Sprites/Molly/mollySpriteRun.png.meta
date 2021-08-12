@@ -116,10 +116,10 @@ TextureImporter:
       name: mollySpriteRun_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 36
-        width: 81
-        height: 129
+        x: 13
+        y: 12
+        width: 27
+        height: 43
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,10 +137,10 @@ TextureImporter:
       name: mollySpriteRun_1
       rect:
         serializedVersion: 2
-        x: 231
-        y: 36
-        width: 81
-        height: 132
+        x: 77
+        y: 12
+        width: 27
+        height: 44
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,10 +158,10 @@ TextureImporter:
       name: mollySpriteRun_2
       rect:
         serializedVersion: 2
-        x: 390
-        y: 42
-        width: 132
-        height: 126
+        x: 130
+        y: 14
+        width: 44
+        height: 42
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: mollySpriteRun_3
       rect:
         serializedVersion: 2
-        x: 582
-        y: 42
-        width: 132
-        height: 126
+        x: 194
+        y: 14
+        width: 44
+        height: 42
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,10 +200,10 @@ TextureImporter:
       name: mollySpriteRun_4
       rect:
         serializedVersion: 2
-        x: 813
-        y: 42
-        width: 72
-        height: 123
+        x: 271
+        y: 14
+        width: 24
+        height: 41
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: mollySpriteRun_5
       rect:
         serializedVersion: 2
-        x: 1008
-        y: 36
-        width: 69
-        height: 129
+        x: 336
+        y: 12
+        width: 23
+        height: 43
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: mollySpriteRun_6
       rect:
         serializedVersion: 2
-        x: 1170
-        y: 42
-        width: 117
-        height: 126
+        x: 390
+        y: 14
+        width: 39
+        height: 42
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: mollySpriteRun_7
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 42
-        width: 117
-        height: 126
+        x: 454
+        y: 14
+        width: 39
+        height: 42
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
