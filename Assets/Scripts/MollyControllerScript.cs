@@ -241,7 +241,7 @@ public class MollyControllerScript : MonoBehaviour
       }
       yield return new WaitForSeconds(knockedDownTime);
       canMove = true;
-      animator.Play("idle");
+      animator.Play("Idle");
 
     }
 }
