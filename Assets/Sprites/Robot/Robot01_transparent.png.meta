@@ -1,0 +1,4978 @@
+fileFormatVersion: 2
+guid: 9a83ef682a8f24825bf573b3652c6a48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7292847738372746834
+    second: Robot01_transparent_0
+  - first:
+      213: -8847726607052608005
+    second: Robot01_transparent_1
+  - first:
+      213: -4091025073735253445
+    second: Robot01_transparent_2
+  - first:
+      213: 1451645761952944953
+    second: Robot01_transparent_3
+  - first:
+      213: 2561689893741311871
+    second: Robot01_transparent_4
+  - first:
+      213: -3841702900586728554
+    second: Robot01_transparent_5
+  - first:
+      213: 7350928022289084516
+    second: Robot01_transparent_6
+  - first:
+      213: -1509559175482206991
+    second: Robot01_transparent_7
+  - first:
+      213: 8911298908995559785
+    second: Robot01_transparent_8
+  - first:
+      213: 4811727457458832088
+    second: Robot01_transparent_9
+  - first:
+      213: -5437124212970609460
+    second: Robot01_transparent_10
+  - first:
+      213: -3645681179177225874
+    second: Robot01_transparent_11
+  - first:
+      213: -873125495625571958
+    second: Robot01_transparent_12
+  - first:
+      213: 264449548736739193
+    second: Robot01_transparent_13
+  - first:
+      213: -3299005450636649829
+    second: Robot01_transparent_14
+  - first:
+      213: -52282572688767646
+    second: Robot01_transparent_15
+  - first:
+      213: 3962098644588226626
+    second: Robot01_transparent_16
+  - first:
+      213: -2612731561002593827
+    second: Robot01_transparent_17
+  - first:
+      213: -2926114148698394748
+    second: Robot01_transparent_18
+  - first:
+      213: -9179476229770040973
+    second: Robot01_transparent_19
+  - first:
+      213: 3108699712189363525
+    second: Robot01_transparent_20
+  - first:
+      213: 830049648427291904
+    second: Robot01_transparent_21
+  - first:
+      213: -8864785061136987496
+    second: Robot01_transparent_22
+  - first:
+      213: 3669046482646822078
+    second: Robot01_transparent_23
+  - first:
+      213: 5454563231099682125
+    second: Robot01_transparent_24
+  - first:
+      213: 5272154571348155669
+    second: Robot01_transparent_25
+  - first:
+      213: 5981053152855380460
+    second: Robot01_transparent_26
+  - first:
+      213: 7843948028710073695
+    second: Robot01_transparent_27
+  - first:
+      213: 2805368221514989888
+    second: Robot01_transparent_28
+  - first:
+      213: 3475771523329918216
+    second: Robot01_transparent_29
+  - first:
+      213: -3007938896111346311
+    second: Robot01_transparent_30
+  - first:
+      213: 8847206251565657399
+    second: Robot01_transparent_31
+  - first:
+      213: 7900999549295346335
+    second: Robot01_transparent_32
+  - first:
+      213: -4920035366024574447
+    second: Robot01_transparent_33
+  - first:
+      213: 917722530473913629
+    second: Robot01_transparent_34
+  - first:
+      213: 5545930406034255567
+    second: Robot01_transparent_35
+  - first:
+      213: 7703823784812417671
+    second: Robot01_transparent_36
+  - first:
+      213: -2568001950152971452
+    second: Robot01_transparent_37
+  - first:
+      213: 1045388886745895977
+    second: Robot01_transparent_38
+  - first:
+      213: -8981719511351668875
+    second: Robot01_transparent_39
+  - first:
+      213: 6304488364823503318
+    second: Robot01_transparent_40
+  - first:
+      213: -1805944182799725781
+    second: Robot01_transparent_41
+  - first:
+      213: -2023022147454625725
+    second: Robot01_transparent_42
+  - first:
+      213: -8201891597430676977
+    second: Robot01_transparent_43
+  - first:
+      213: -1334112359267290968
+    second: Robot01_transparent_44
+  - first:
+      213: 3402444978113026918
+    second: Robot01_transparent_45
+  - first:
+      213: -3575028543881010409
+    second: Robot01_transparent_46
+  - first:
+      213: 7489726200827372804
+    second: Robot01_transparent_47
+  - first:
+      213: -8118019753078123184
+    second: Robot01_transparent_48
+  - first:
+      213: 7308947023862061853
+    second: Robot01_transparent_49
+  - first:
+      213: 7304976744775121632
+    second: Robot01_transparent_50
+  - first:
+      213: -4655642848641354708
+    second: Robot01_transparent_51
+  - first:
+      213: -4038285704133615754
+    second: Robot01_transparent_52
+  - first:
+      213: -7779652907209952768
+    second: Robot01_transparent_53
+  - first:
+      213: 8846242053516513356
+    second: Robot01_transparent_54
+  - first:
+      213: 3107740579037078556
+    second: Robot01_transparent_55
+  - first:
+      213: -3224489126404026652
+    second: Robot01_transparent_56
+  - first:
+      213: -4526241044930499445
+    second: Robot01_transparent_57
+  - first:
+      213: -6627959094990653936
+    second: Robot01_transparent_58
+  - first:
+      213: 1182098626982322267
+    second: Robot01_transparent_59
+  - first:
+      213: 3029741742768676067
+    second: Robot01_transparent_60
+  - first:
+      213: -2759773341468845696
+    second: Robot01_transparent_61
+  - first:
+      213: -4460503384405522111
+    second: Robot01_transparent_62
+  - first:
+      213: -4927950249815367673
+    second: Robot01_transparent_63
+  - first:
+      213: -86130968635818010
+    second: Robot01_transparent_64
+  - first:
+      213: 6003421248760181301
+    second: Robot01_transparent_65
+  - first:
+      213: 7273277382569995482
+    second: Robot01_transparent_66
+  - first:
+      213: 6551698822199139246
+    second: Robot01_transparent_67
+  - first:
+      213: 1877780433399018949
+    second: Robot01_transparent_68
+  - first:
+      213: 713433949158990132
+    second: Robot01_transparent_69
+  - first:
+      213: -9139370825604681726
+    second: Robot01_transparent_70
+  - first:
+      213: -5905460248862358909
+    second: Robot01_transparent_71
+  - first:
+      213: -3634746238565971504
+    second: Robot01_transparent_72
+  - first:
+      213: -7611852772409257215
+    second: Robot01_transparent_73
+  - first:
+      213: 8644995858290201371
+    second: Robot01_transparent_74
+  - first:
+      213: -3525159041626984141
+    second: Robot01_transparent_75
+  - first:
+      213: -2931290211757942988
+    second: Robot01_transparent_76
+  - first:
+      213: -3606009906277543828
+    second: Robot01_transparent_77
+  - first:
+      213: 8873592241343527991
+    second: Robot01_transparent_78
+  - first:
+      213: -5070086329566500930
+    second: Robot01_transparent_79
+  - first:
+      213: 8962083275602236041
+    second: Robot01_transparent_80
+  - first:
+      213: -4711700585167860575
+    second: Robot01_transparent_81
+  - first:
+      213: -7795745876074115421
+    second: Robot01_transparent_82
+  - first:
+      213: 3269720051706469084
+    second: Robot01_transparent_83
+  - first:
+      213: -6110683709985487982
+    second: Robot01_transparent_84
+  - first:
+      213: -8088808599970841331
+    second: Robot01_transparent_85
+  - first:
+      213: 3192652300254010981
+    second: Robot01_transparent_86
+  - first:
+      213: 6289934050692535612
+    second: Robot01_transparent_87
+  - first:
+      213: -8361941620883256984
+    second: Robot01_transparent_88
+  - first:
+      213: -5621845738200058027
+    second: Robot01_transparent_89
+  - first:
+      213: 1527393887382439661
+    second: Robot01_transparent_90
+  - first:
+      213: 3980986852274958453
+    second: Robot01_transparent_91
+  - first:
+      213: -2885015770867492852
+    second: Robot01_transparent_92
+  - first:
+      213: 720754035196864163
+    second: Robot01_transparent_93
+  - first:
+      213: 6310332136246736108
+    second: Robot01_transparent_94
+  - first:
+      213: 8107159517946829528
+    second: Robot01_transparent_95
+  - first:
+      213: 8785228209957930131
+    second: Robot01_transparent_96
+  - first:
+      213: 7953584842533432588
+    second: Robot01_transparent_97
+  - first:
+      213: -9065126530964645072
+    second: Robot01_transparent_98
+  - first:
+      213: -6385405601454438884
+    second: Robot01_transparent_99
+  - first:
+      213: 1241400903662817784
+    second: Robot01_transparent_100
+  - first:
+      213: -7919425100483407075
+    second: Robot01_transparent_101
+  - first:
+      213: 7130104073154979156
+    second: Robot01_transparent_102
+  - first:
+      213: 6079910303902229550
+    second: Robot01_transparent_103
+  - first:
+      213: 1416480078217570088
+    second: Robot01_transparent_104
+  - first:
+      213: 7590901258362345723
+    second: Robot01_transparent_105
+  - first:
+      213: 2449890774130058513
+    second: Robot01_transparent_106
+  - first:
+      213: -8813995908811857666
+    second: Robot01_transparent_107
+  - first:
+      213: 7952570830294827696
+    second: Robot01_transparent_108
+  - first:
+      213: -260929284475413608
+    second: Robot01_transparent_109
+  - first:
+      213: 6062295442418974378
+    second: Robot01_transparent_110
+  - first:
+      213: 3117669709590206855
+    second: Robot01_transparent_111
+  - first:
+      213: 737834540344033071
+    second: Robot01_transparent_112
+  - first:
+      213: 8370599851436704251
+    second: Robot01_transparent_113
+  - first:
+      213: -8800943748933777120
+    second: Robot01_transparent_114
+  - first:
+      213: 1632874116255601532
+    second: Robot01_transparent_115
+  - first:
+      213: -6236538263385492449
+    second: Robot01_transparent_116
+  - first:
+      213: -47530319346618310
+    second: Robot01_transparent_117
+  - first:
+      213: 1819669325641058743
+    second: Robot01_transparent_118
+  - first:
+      213: 5016812581777994920
+    second: Robot01_transparent_119
+  - first:
+      213: -8363784875136750487
+    second: Robot01_transparent_120
+  - first:
+      213: 8018158262330413344
+    second: Robot01_transparent_121
+  - first:
+      213: 114502008620233661
+    second: Robot01_transparent_122
+  - first:
+      213: -2586848807991309676
+    second: Robot01_transparent_123
+  - first:
+      213: -529726429575027933
+    second: Robot01_transparent_124
+  - first:
+      213: 4930136787324771700
+    second: Robot01_transparent_125
+  - first:
+      213: 7656534525399283455
+    second: Robot01_transparent_126
+  - first:
+      213: 518737298683922680
+    second: Robot01_transparent_127
+  - first:
+      213: -226219275065869283
+    second: Robot01_transparent_128
+  - first:
+      213: -8166753500977295757
+    second: Robot01_transparent_129
+  - first:
+      213: 2458408537847548952
+    second: Robot01_transparent_130
+  - first:
+      213: -1322794550390772799
+    second: Robot01_transparent_131
+  - first:
+      213: 5109341882663825358
+    second: Robot01_transparent_132
+  - first:
+      213: 2163494436383139246
+    second: Robot01_transparent_133
+  - first:
+      213: 2460397816936803182
+    second: Robot01_transparent_134
+  - first:
+      213: 5212303781304564159
+    second: Robot01_transparent_135
+  - first:
+      213: -6978105658989514902
+    second: Robot01_transparent_136
+  - first:
+      213: 401842991591660671
+    second: Robot01_transparent_137
+  - first:
+      213: 427044863672377174
+    second: Robot01_transparent_138
+  - first:
+      213: -6927881711357217418
+    second: Robot01_transparent_139
+  - first:
+      213: 6590540451422705312
+    second: Robot01_transparent_140
+  - first:
+      213: 6163349796520014335
+    second: Robot01_transparent_141
+  - first:
+      213: -8172851652846725432
+    second: Robot01_transparent_142
+  - first:
+      213: -2298235844957739485
+    second: Robot01_transparent_143
+  - first:
+      213: -6077497032600341840
+    second: Robot01_transparent_144
+  - first:
+      213: -5201110568657398646
+    second: Robot01_transparent_145
+  - first:
+      213: -4498074525871067775
+    second: Robot01_transparent_146
+  - first:
+      213: 4760043141758944738
+    second: Robot01_transparent_147
+  - first:
+      213: 6002051898291332759
+    second: Robot01_transparent_148
+  - first:
+      213: -3103754614850057533
+    second: Robot01_transparent_149
+  - first:
+      213: -3835418166664802308
+    second: Robot01_transparent_150
+  - first:
+      213: -7673254457172823080
+    second: Robot01_transparent_151
+  - first:
+      213: 5158125945076359902
+    second: Robot01_transparent_152
+  - first:
+      213: 6656971994755035322
+    second: Robot01_transparent_153
+  - first:
+      213: -1739178272090202747
+    second: Robot01_transparent_154
+  - first:
+      213: -669847212032989203
+    second: Robot01_transparent_155
+  - first:
+      213: -7820198372176398784
+    second: Robot01_transparent_156
+  - first:
+      213: -2855506206908297846
+    second: Robot01_transparent_157
+  - first:
+      213: 2392289237077379785
+    second: Robot01_transparent_158
+  - first:
+      213: 3209763349868169945
+    second: Robot01_transparent_159
+  - first:
+      213: 268712126580213455
+    second: Robot01_transparent_160
+  - first:
+      213: 4807757242856145328
+    second: Robot01_transparent_161
+  - first:
+      213: 3547501136899358184
+    second: Robot01_transparent_162
+  - first:
+      213: -7068321714450962920
+    second: Robot01_transparent_163
+  - first:
+      213: 6383359255451086890
+    second: Robot01_transparent_164
+  - first:
+      213: -950051333184127811
+    second: Robot01_transparent_165
+  - first:
+      213: 3626873115246394358
+    second: Robot01_transparent_166
+  - first:
+      213: -4242407872109829032
+    second: Robot01_transparent_167
+  - first:
+      213: 329236743963874758
+    second: Robot01_transparent_168
+  - first:
+      213: 6834325639633428505
+    second: Robot01_transparent_169
+  - first:
+      213: 8752654205008444935
+    second: Robot01_transparent_170
+  - first:
+      213: -5274278746385293573
+    second: Robot01_transparent_171
+  - first:
+      213: -4818260273514511941
+    second: Robot01_transparent_172
+  - first:
+      213: -5476329787285183312
+    second: Robot01_transparent_173
+  - first:
+      213: 6644081491383188671
+    second: Robot01_transparent_174
+  - first:
+      213: -4798447076382246793
+    second: Robot01_transparent_175
+  - first:
+      213: -2475821917877996876
+    second: Robot01_transparent_176
+  - first:
+      213: 6499868929767032014
+    second: Robot01_transparent_177
+  - first:
+      213: -2639630874519350202
+    second: Robot01_transparent_178
+  - first:
+      213: 3468637779734977984
+    second: Robot01_transparent_179
+  - first:
+      213: -1400291338015098465
+    second: Robot01_transparent_180
+  - first:
+      213: 999030911946915120
+    second: Robot01_transparent_181
+  - first:
+      213: -2351698688796507756
+    second: Robot01_transparent_182
+  - first:
+      213: -5898006178012874139
+    second: Robot01_transparent_183
+  - first:
+      213: -1832997244567185946
+    second: Robot01_transparent_184
+  - first:
+      213: -3240394874458715158
+    second: Robot01_transparent_185
+  - first:
+      213: 5978244326038723555
+    second: Robot01_transparent_186
+  - first:
+      213: -2994215631621185765
+    second: Robot01_transparent_187
+  - first:
+      213: -7156688484113754569
+    second: Robot01_transparent_188
+  - first:
+      213: 603081578880174183
+    second: Robot01_transparent_189
+  - first:
+      213: -6302309478305430779
+    second: Robot01_transparent_190
+  - first:
+      213: 662391321595616532
+    second: Robot01_transparent_191
+  - first:
+      213: 1006271553993663732
+    second: Robot01_transparent_192
+  - first:
+      213: -2086504332299388548
+    second: Robot01_transparent_193
+  - first:
+      213: 4566613215638303695
+    second: Robot01_transparent_194
+  - first:
+      213: -1596794257914980277
+    second: Robot01_transparent_195
+  - first:
+      213: 219614679948535699
+    second: Robot01_transparent_196
+  - first:
+      213: -8535072358633980432
+    second: Robot01_transparent_197
+  - first:
+      213: 7196923591464861508
+    second: Robot01_transparent_198
+  - first:
+      213: 943230427442246382
+    second: Robot01_transparent_199
+  - first:
+      213: -926966803275133942
+    second: Robot01_transparent_200
+  - first:
+      213: -6123841332374113510
+    second: Robot01_transparent_201
+  - first:
+      213: -8912946946197444612
+    second: Robot01_transparent_202
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robot01_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2113
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea118410f999aca90800000000000000
+      internalID: -7292847738372746834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2113
+        width: 55
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd6bd4378f863580800000000000000
+      internalID: -8847726607052608005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2113
+        width: 54
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324bc0ee52c937c0800000000000000
+      internalID: -4091025073735253445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2113
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93318ec1128452410800000000000000
+      internalID: 1451645761952944953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2113
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b82dc263fc8320800000000000000
+      internalID: 2561689893741311871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2113
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b0fde0978faac0800000000000000
+      internalID: -3841702900586728554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2113
+        width: 57
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4607102e61eb30660800000000000000
+      internalID: 7350928022289084516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2113
+        width: 61
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f493f98de7fc0be0800000000000000
+      internalID: -1509559175482206991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2113
+        width: 63
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a106c42b4bab70800000000000000
+      internalID: 8911298908995559785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2113
+        width: 65
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2c3d101a0b6c240800000000000000
+      internalID: 4811727457458832088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2113
+        width: 67
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4263ed5547b84b0800000000000000
+      internalID: -5437124212970609460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2113
+        width: 67
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6170de7840f76dc0800000000000000
+      internalID: -3645681179177225874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2113
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a6ecdcf802e3f0800000000000000
+      internalID: -873125495625571958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2113
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773775a6738ba300800000000000000
+      internalID: 264449548736739193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2050
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a99b285049732d0800000000000000
+      internalID: -3299005450636649829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2050
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26541f2f641464ff0800000000000000
+      internalID: -52282572688767646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2050
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ecb3a9b33cf630800000000000000
+      internalID: 3962098644588226626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2050
+        width: 69
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd11df4fc76bdbbd0800000000000000
+      internalID: -2612731561002593827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2050
+        width: 68
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f669a5faa5467d0800000000000000
+      internalID: -2926114148698394748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2050
+        width: 61
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3792a640103fb9080800000000000000
+      internalID: -9179476229770040973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1966
+        width: 310
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f76aeae1542b20800000000000000
+      internalID: 3108699712189363525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1973
+        width: 67
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055278e1cde48b00800000000000000
+      internalID: 830049648427291904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1973
+        width: 59
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a8dbc54f4f9f480800000000000000
+      internalID: -8864785061136987496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1973
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc6f8626521be230800000000000000
+      internalID: 3669046482646822078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1973
+        width: 50
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7a92fb5082bb40800000000000000
+      internalID: 5454563231099682125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1974
+        width: 61
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d982a46a47a2940800000000000000
+      internalID: 5272154571348155669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1974
+        width: 56
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1dcae4728f00350800000000000000
+      internalID: 5981053152855380460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1974
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b3ef4c2d4bdc60800000000000000
+      internalID: 7843948028710073695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1974
+        width: 63
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410293b88baee620800000000000000
+      internalID: 2805368221514989888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1907
+        width: 67
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8058f78f8cb6c3030800000000000000
+      internalID: 3475771523329918216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1903
+        width: 67
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dd33fb287a146d0800000000000000
+      internalID: -3007938896111346311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1900
+        width: 36
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73daf27163797ca70800000000000000
+      internalID: 8847206251565657399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1900
+        width: 52
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9245429a3df5ad60800000000000000
+      internalID: 7900999549295346335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1904
+        width: 65
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a0fbde6e588bbb0800000000000000
+      internalID: -4920035366024574447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1902
+        width: 65
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d254777c76cbc00800000000000000
+      internalID: 917722530473913629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1901
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcea5b8125a17fc40800000000000000
+      internalID: 5545930406034255567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1901
+        width: 53
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78213f96aea79ea60800000000000000
+      internalID: 7703823784812417671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1934
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2f9a05df9c5cd0800000000000000
+      internalID: -2568001950152971452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1934
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92451ae57a7f18e00800000000000000
+      internalID: 1045388886745895977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1934
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f40bd01b58a5380800000000000000
+      internalID: -8981719511351668875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1903
+        width: 28
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d163e3e3ca0e7750800000000000000
+      internalID: 6304488364823503318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1903
+        width: 28
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0a04855fffe6e0800000000000000
+      internalID: -1805944182799725781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1934
+        width: 10
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34818384318cce3e0800000000000000
+      internalID: -2023022147454625725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1934
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0222e03c070d2e80800000000000000
+      internalID: -8201891597430676977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1934
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a03a6fa0e74c7de0800000000000000
+      internalID: -1334112359267290968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1812
+        width: 53
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b1d304ea9e73f20800000000000000
+      internalID: 3402444978113026918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1821
+        width: 61
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713271c0b72f26ec0800000000000000
+      internalID: -3575028543881010409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1828
+        width: 58
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40560412c4ad0f760800000000000000
+      internalID: 7489726200827372804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1832
+        width: 61
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0559c22bb00075f80800000000000000
+      internalID: -8118019753078123184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1834
+        width: 68
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b527ff7989e6560800000000000000
+      internalID: 7308947023862061853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1827
+        width: 66
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea7fcc55ad706560800000000000000
+      internalID: 7304976744775121632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1825
+        width: 67
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f4adee75d36fb0800000000000000
+      internalID: -4655642848641354708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1812
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fd39f3c8025f7c0800000000000000
+      internalID: -4038285704133615754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1745
+        width: 57
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027ae536ee190490800000000000000
+      internalID: -7779652907209952768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1745
+        width: 90
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4059fc374a24ca70800000000000000
+      internalID: 8846242053516513356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1745
+        width: 84
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1462935799e02b20800000000000000
+      internalID: 3107740579037078556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1745
+        width: 63
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee049e39305043d0800000000000000
+      internalID: -3224489126404026652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1672
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cef1d20cf8f21c0800000000000000
+      internalID: -4526241044930499445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1672
+        width: 65
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016334dc152c404a0800000000000000
+      internalID: -6627959094990653936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1672
+        width: 64
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5022ce2078a76010800000000000000
+      internalID: 1182098626982322267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1672
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec56e2101ecb0a20800000000000000
+      internalID: 3029741742768676067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1672
+        width: 75
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089182194c053b9d0800000000000000
+      internalID: -2759773341468845696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1672
+        width: 70
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c41dfdcb1912c0800000000000000
+      internalID: -4460503384405522111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1672
+        width: 51
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70025f07b576c9bb0800000000000000
+      internalID: -4927950249815367673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1592
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef3d4227500ecef0800000000000000
+      internalID: -86130968635818010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1595
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f16971df605350800000000000000
+      internalID: 6003421248760181301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1596
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adca7f47e3fdfe460800000000000000
+      internalID: 7273277382569995482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1604
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab568ccd5f4cea50800000000000000
+      internalID: 6551698822199139246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1604
+        width: 67
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57de2fa573f0a10800000000000000
+      internalID: 1877780433399018949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1593
+        width: 48
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43163569560a6e900800000000000000
+      internalID: 713433949158990132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1592
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200b34518ae6a2180800000000000000
+      internalID: -9139370825604681726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1526
+        width: 69
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3828e5f21379b0ea0800000000000000
+      internalID: -5905460248862358909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1522
+        width: 64
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98691cd89ce8dc0800000000000000
+      internalID: -3634746238565971504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1525
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10359f99b344d5690800000000000000
+      internalID: -7611852772409257215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1527
+        width: 61
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b135c121ee139f770800000000000000
+      internalID: 8644995858290201371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1460
+        width: 83
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331311b578e141fc0800000000000000
+      internalID: -3525159041626984141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1460
+        width: 81
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43796924517f157d0800000000000000
+      internalID: -2931290211757942988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1454
+        width: 63
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6099cf7811e4fdc0800000000000000
+      internalID: -3606009906277543828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1397
+        width: 57
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c71f21125552b70800000000000000
+      internalID: 8873592241343527991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1397
+        width: 60
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ef91885f63a9b0800000000000000
+      internalID: -5070086329566500930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1397
+        width: 49
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9829db98147bf5c70800000000000000
+      internalID: 8962083275602236041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1332
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc11d084dac9eb0800000000000000
+      internalID: -4711700585167860575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1333
+        width: 77
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aec269ed62ffc390800000000000000
+      internalID: -7795745876074115421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1333
+        width: 80
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda9fe43011606d20800000000000000
+      internalID: 3269720051706469084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1332
+        width: 99
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938c83aa8d723ba0800000000000000
+      internalID: -6110683709985487982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1332
+        width: 95
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dfc964f67cebf80800000000000000
+      internalID: -8088808599970841331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1333
+        width: 116
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e59f70a549e4c20800000000000000
+      internalID: 3192652300254010981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1333
+        width: 159
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35992091b55a4750800000000000000
+      internalID: 6289934050692535612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1275
+        width: 641
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86903b6366a64fb80800000000000000
+      internalID: -8361941620883256984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1218
+        width: 637
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557ba8046113bf1b0800000000000000
+      internalID: -5621845738200058027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1162
+        width: 637
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de68889e5a4623510800000000000000
+      internalID: 1527393887382439661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1106
+        width: 637
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5707951337e4f3730800000000000000
+      internalID: 3980986852274958453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1049
+        width: 681
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c081b0e117d56f7d0800000000000000
+      internalID: -2885015770867492852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 937
+        width: 637
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6a65ee9f1a00a00800000000000000
+      internalID: 720754035196864163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 822
+        width: 68
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f7b3f4adc29750800000000000000
+      internalID: 6310332136246736108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 849
+        width: 635
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad5a4c0aa628070800000000000000
+      internalID: 8107159517946829528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 847
+        width: 12
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948845c2866be970800000000000000
+      internalID: 8785228209957930131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 847
+        width: 39
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0de22e364fc06e60800000000000000
+      internalID: 7953584842533432588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 847
+        width: 18
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b12edf273323280800000000000000
+      internalID: -9065126530964645072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 751
+        width: 57
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16c482df6b7267a0800000000000000
+      internalID: -6385405601454438884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 751
+        width: 57
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1dbae6b875a3110800000000000000
+      internalID: 1241400903662817784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 751
+        width: 57
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13df5c74dc881290800000000000000
+      internalID: -7919425100483407075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 750
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455e7fba0e733f260800000000000000
+      internalID: 7130104073154979156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 750
+        width: 74
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24645a653e206450800000000000000
+      internalID: 6079910303902229550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 750
+        width: 71
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8276395502958a310800000000000000
+      internalID: 1416480078217570088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 758
+        width: 14
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d0c5e97c485960800000000000000
+      internalID: 7590901258362345723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 751
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1156782dda2cff120800000000000000
+      internalID: 2449890774130058513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 751
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e5836b656ea580800000000000000
+      internalID: -8813995908811857666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 687
+        width: 60
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b24bde19053d5e60800000000000000
+      internalID: 7952570830294827696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 687
+        width: 57
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b985fb23ef06cf0800000000000000
+      internalID: -260929284475413608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_110
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 687
+        width: 51
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae3ad0e599912450800000000000000
+      internalID: 6062295442418974378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 687
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7899e1f2510344b20800000000000000
+      internalID: 3117669709590206855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 687
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f3830fa905d3a00800000000000000
+      internalID: 737834540344033071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 605
+        width: 52
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf182dd27385a2470800000000000000
+      internalID: 8370599851436704251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 609
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298b9c2a44ccd580800000000000000
+      internalID: -8800943748933777120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_115
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 624
+        width: 60
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73585e7b5229a610800000000000000
+      internalID: 1632874116255601532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_116
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 627
+        width: 71
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b6c6fd7d5379a0800000000000000
+      internalID: -6236538263385492449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_117
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 605
+        width: 62
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b8472d63275ff0800000000000000
+      internalID: -47530319346618310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_118
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 610
+        width: 69
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b982835c93c04910800000000000000
+      internalID: 1819669325641058743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_119
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 616
+        width: 68
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a47691867c4f9540800000000000000
+      internalID: 5016812581777994920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_120
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 620
+        width: 68
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c60b328fdddeb80800000000000000
+      internalID: -8363784875136750487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_121
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 606
+        width: 68
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02151132578364f60800000000000000
+      internalID: 8018158262330413344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_122
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 602
+        width: 66
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b0ed58fac69100800000000000000
+      internalID: 114502008620233661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_123
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 602
+        width: 67
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a090007baa91cd0800000000000000
+      internalID: -2586848807991309676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_124
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 490
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3236b017e9806a8f0800000000000000
+      internalID: -529726429575027933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_125
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 493
+        width: 58
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d149e794d5b6440800000000000000
+      internalID: 4930136787324771700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_126
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 479
+        width: 67
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff630f4b599714a60800000000000000
+      internalID: 7656534525399283455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_127
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 504
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f80dc323dce23700800000000000000
+      internalID: 518737298683922680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_128
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 487
+        width: 67
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c3a5494ce4cdcf0800000000000000
+      internalID: -226219275065869283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_129
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 529
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e021ec5fcd9ae80800000000000000
+      internalID: -8166753500977295757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_130
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 503
+        width: 59
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cc03b3a850e1220800000000000000
+      internalID: 2458408537847548952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_131
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 528
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba2296d5d74ade0800000000000000
+      internalID: -1322794550390772799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_132
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 510
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfe3303f5708e640800000000000000
+      internalID: 5109341882663825358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_133
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 511
+        width: 61
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a62a2ab6460e10800000000000000
+      internalID: 2163494436383139246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_134
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 512
+        width: 62
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b2aac57c6152220800000000000000
+      internalID: 2460397816936803182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_135
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 495
+        width: 44
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb975125ca2d55840800000000000000
+      internalID: 5212303781304564159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_136
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 493
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f69ceefd9c82f90800000000000000
+      internalID: -6978105658989514902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_137
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 493
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1d416212a39500800000000000000
+      internalID: 401842991591660671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_138
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 491
+        width: 64
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fd85a7a0b2de500800000000000000
+      internalID: 427044863672377174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_139
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 521
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b0acf9483bdf90800000000000000
+      internalID: -6927881711357217418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_140
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 521
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a694e45f9d467b50800000000000000
+      internalID: 6590540451422705312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_141
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 485
+        width: 67
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13d003cfd988550800000000000000
+      internalID: 6163349796520014335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_142
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 513
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65b1e29b2349e80800000000000000
+      internalID: -8172851652846725432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_143
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 497
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3266933fca60b10e0800000000000000
+      internalID: -2298235844957739485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_144
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 482
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2bd5816a468aba0800000000000000
+      internalID: -6077497032600341840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_145
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 489
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8455a59e71f1d7b0800000000000000
+      internalID: -5201110568657398646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_146
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 490
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18da830fc01a391c0800000000000000
+      internalID: -4498074525871067775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_147
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 495
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5831484021f0240800000000000000
+      internalID: 4760043141758944738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_148
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 490
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962d19b6629b4350800000000000000
+      internalID: 6002051898291332759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_149
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 481
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca02e74f9f3de4d0800000000000000
+      internalID: -3103754614850057533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_150
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 404
+        width: 67
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff4dd29f7bd5cac0800000000000000
+      internalID: -3835418166664802308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_151
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 404
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f701d9bf138590800000000000000
+      internalID: -7673254457172823080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_152
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 404
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2a007d738559740800000000000000
+      internalID: 5158125945076359902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_153
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 404
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0f81352c0526c50800000000000000
+      internalID: 6656971994755035322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_154
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 404
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d5cfa73923dd7e0800000000000000
+      internalID: -1739178272090202747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 404
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ecf8728934b6f0800000000000000
+      internalID: -669847212032989203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_156
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 404
+        width: 67
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04676518303197390800000000000000
+      internalID: -7820198372176398784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_157
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 404
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dce43eb343f58d0800000000000000
+      internalID: -2855506206908297846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_158
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 404
+        width: 67
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caccffd26e133120800000000000000
+      internalID: 2392289237077379785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_159
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 404
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dac5f9b2ce5b8c20800000000000000
+      internalID: 3209763349868169945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_160
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 404
+        width: 67
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc647a36148aab300800000000000000
+      internalID: 268712126580213455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_161
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 327
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b180c26db598b240800000000000000
+      internalID: 4807757242856145328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_162
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 388
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3e211d714b3130800000000000000
+      internalID: 3547501136899358184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_163
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 386
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81668fba9d648ed90800000000000000
+      internalID: -7068321714450962920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_164
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 327
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a203dde1c6f369850800000000000000
+      internalID: 6383359255451086890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_165
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 327
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc7c27985db0d2f0800000000000000
+      internalID: -950051333184127811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_166
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 327
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbfcafd1ed355230800000000000000
+      internalID: 3626873115246394358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_167
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 327
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854a29e7480ff15c0800000000000000
+      internalID: -4242407872109829032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_168
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 327
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c519f2031fa19400800000000000000
+      internalID: 329236743963874758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_169
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 327
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e1bd95f668de50800000000000000
+      internalID: 6834325639633428505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_170
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 327
+        width: 51
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7b5b30aca77970800000000000000
+      internalID: 8752654205008444935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_171
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 261
+        width: 52
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfedf4bac6ffdc6b0800000000000000
+      internalID: -5274278746385293573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_172
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 256
+        width: 56
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb18ac93fc9122db0800000000000000
+      internalID: -4818260273514511941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_173
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 256
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e9f3c21b2004b0800000000000000
+      internalID: -5476329787285183312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_174
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 254
+        width: 44
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc74a02ae4843c50800000000000000
+      internalID: 6644081491383188671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_175
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 266
+        width: 55
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77879baaecd786db0800000000000000
+      internalID: -4798447076382246793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_176
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 183
+        width: 56
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b271c9451d14add0800000000000000
+      internalID: -2475821917877996876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_177
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 182
+        width: 58
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4cc559a5c243a50800000000000000
+      internalID: 6499868929767032014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_178
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 55
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644de1a74b52e5bd0800000000000000
+      internalID: -2639630874519350202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_179
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 186
+        width: 53
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd5a9bdea3132030800000000000000
+      internalID: 3468637779734977984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_180
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 181
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99bd87727a219ce0800000000000000
+      internalID: -1400291338015098465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_181
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 194
+        width: 65
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dfa3242554ddd00800000000000000
+      internalID: 999030911946915120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_182
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 79
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491488b90861d5fd0800000000000000
+      internalID: -2351698688796507756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_183
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 141
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56abb7c41a2162ea0800000000000000
+      internalID: -5898006178012874139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_184
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 142
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e59d4bb7b2ef86e0800000000000000
+      internalID: -1832997244567185946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_185
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 141
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb44efa70ec703d0800000000000000
+      internalID: -3240394874458715158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_186
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 140
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb580a5a8df6f250800000000000000
+      internalID: 5978244326038723555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_187
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 138
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1c404fb86276d0800000000000000
+      internalID: -2994215631621185765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_188
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 79
+        width: 68
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7365540ddb55eac90800000000000000
+      internalID: -7156688484113754569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_189
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7680cbf20839e5800800000000000000
+      internalID: 603081578880174183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030709abe2b988a0800000000000000
+      internalID: -6302309478305430779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_191
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 79
+        width: 69
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1202c569413900800000000000000
+      internalID: 662391321595616532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_192
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 79
+        width: 69
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f46f5b95aef6fd00800000000000000
+      internalID: 1006271553993663732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_193
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 79
+        width: 69
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c793bf25d5f3b03e0800000000000000
+      internalID: -2086504332299388548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_194
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 79
+        width: 68
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3b9b0568edf5f30800000000000000
+      internalID: 4566613215638303695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_195
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 79
+        width: 68
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b481895251c07d9e0800000000000000
+      internalID: -1596794257914980277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_196
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 79
+        width: 68
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3972bc9436a3c0300800000000000000
+      internalID: 219614679948535699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_197
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 79
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdbd5b19e45d8980800000000000000
+      internalID: -8535072358633980432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_198
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 72
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f34e020eb90e360800000000000000
+      internalID: 7196923591464861508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_199
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 10
+        width: 70
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f8098317071d00800000000000000
+      internalID: 943230427442246382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_200
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc43c8a90c223f0800000000000000
+      internalID: -926966803275133942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_201
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 30
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a137cf2f0ceb30ba0800000000000000
+      internalID: -6123841332374113510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot01_transparent_202
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 31
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7aff9a9f9de4480800000000000000
+      internalID: -8912946946197444612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: adcc3ee3bce854137accf720e96607f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
