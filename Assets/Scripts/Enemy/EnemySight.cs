@@ -7,6 +7,7 @@ public class EnemySight : MonoBehaviour
   public bool playerInSight;
   public GameObject player;
   public GameObject target;
+  public float targetDistance;
 
     // Start is called before the first frame update
     void Awake()
@@ -18,6 +19,8 @@ public class EnemySight : MonoBehaviour
     void Update()
     {
       target = player;
+      targetDistance = Vector3.Distance(target.transform.position, gameObject.transform.position);
+      
     }
 
     void OnTriggerStay(Collider other){
