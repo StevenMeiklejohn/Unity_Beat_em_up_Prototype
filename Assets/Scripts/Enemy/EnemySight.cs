@@ -8,6 +8,8 @@ public class EnemySight : MonoBehaviour
   public GameObject player;
   public GameObject target;
   public float targetDistance;
+  public bool playerOnRight;
+  public Vector3 playerRelativePosition;
 
     // Start is called before the first frame update
     void Awake()
@@ -20,7 +22,13 @@ public class EnemySight : MonoBehaviour
     {
       target = player;
       targetDistance = Vector3.Distance(target.transform.position, gameObject.transform.position);
-      
+      playerRelativePosition = player.transform.position - gameObject.transform.position;
+      if(playerRelativePosition.x > 0){
+        playerOnRight = true;
+      }else if (playerRelativePosition.x < 0){
+        playerOnRight = false;
+      }
+
     }
 
     void OnTriggerStay(Collider other){

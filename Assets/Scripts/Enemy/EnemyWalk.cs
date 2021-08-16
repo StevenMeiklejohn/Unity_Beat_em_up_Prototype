@@ -12,6 +12,7 @@ public class EnemyWalk : MonoBehaviour
   public float enemyCurrentSpeed;
   public float enemySpeed;
   public GameObject spriteObject;
+  public bool facingRight;
 
 
 
@@ -36,5 +37,17 @@ public class EnemyWalk : MonoBehaviour
           animator.SetBool("Walk", false);
         }
       }
+      if(enemySight.playerOnRight == true && facingRight){
+        Flip();
+      }else if(enemySight.playerOnRight != true && !facingRight){
+        Flip();
+      }
+    }
+
+    void Flip(){
+      facingRight = !facingRight;
+      Vector3 thisScale = transform.localScale;
+      thisScale.x *= -1;
+      transform.localScale = thisScale;
     }
 }
