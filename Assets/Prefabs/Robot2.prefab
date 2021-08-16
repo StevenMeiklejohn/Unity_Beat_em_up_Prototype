@@ -14,13 +14,16 @@ GameObject:
   - component: {fileID: 467873132428636459}
   - component: {fileID: 467873132428636500}
   - component: {fileID: 4879891679573996819}
+  - component: {fileID: 2131632194}
+  - component: {fileID: 2131632195}
+  - component: {fileID: 2131632196}
   m_Layer: 0
   m_Name: Robot2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &467873132428636458
 Transform:
   m_ObjectHideFlags: 0
@@ -30,7 +33,7 @@ Transform:
   m_GameObject: {fileID: 467873132428636463}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.53, y: 0.12, z: -2.37}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.1, y: 1.1, z: 1}
   m_Children:
   - {fileID: 467873133806195548}
   - {fileID: 6728978401207130214}
@@ -49,8 +52,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.60199857, y: 0.9303572, z: 0.5629451}
-  m_Center: {x: -0.0052121878, y: -0.01362586, z: 0.02807486}
+  m_Size: {x: 0.47497195, y: 0.93035716, z: 0.075464725}
+  m_Center: {x: 0.011501799, y: -0.013625838, z: 0.01433897}
 --- !u!54 &467873132428636456
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -63,7 +66,7 @@ Rigidbody:
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
@@ -145,11 +148,67 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 467873132428636463}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 1.6
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!195 &2131632194
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467873132428636463}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.3
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0.2
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 0.95
+  m_BaseOffset: 0.46
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &2131632195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467873132428636463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1be07ef788d8490e89c6ad0ac62afdc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerInSight: 0
+  player: {fileID: 0}
+  target: {fileID: 0}
+  targetDistance: 0
+  playerOnRight: 0
+  playerRelativePosition: {x: 0, y: 0, z: 0}
+--- !u!114 &2131632196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467873132428636463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765cc405748f14fb695c5010f0e3741f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyCurrentSpeed: 0
+  enemySpeed: 0.5
+  spriteObject: {fileID: 467873133806195539}
+  facingRight: 0
 --- !u!1 &467873133806195539
 GameObject:
   m_ObjectHideFlags: 0
@@ -222,7 +281,7 @@ SpriteRenderer:
   m_SortingLayerID: 770709505
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 296cc42c9b51be44fb019824ced9acbc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 38fdc95cd687b274590f356cec3d79c3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
