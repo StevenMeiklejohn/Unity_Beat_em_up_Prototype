@@ -71,36 +71,36 @@ public class MollyControllerScript : MonoBehaviour
     {
       currentStateInfo = animator.GetCurrentAnimatorStateInfo(0);
       currentState = currentStateInfo.fullPathHash;
-      if(currentState == idleState){
-        Debug.Log("Idle State");
-      }
-      if(currentState == walkState){
-        Debug.Log("Walk State");
-      }
-      if(currentState == runState){
-        Debug.Log("Run State");
-      }
-      if(currentState == jumpState){
-        Debug.Log("Jump State");
-      }
-      if(currentState == takeDamageState){
-        Debug.Log("Take Damage State");
-      }
-      if(currentState == attack1State){
-        Debug.Log("Attack1 State");
-      }
-      if(currentState == attack2State){
-        Debug.Log("Attack2 State");
-      }
-      if(currentState == attack3State){
-        Debug.Log("Attack3k State");
-      }
-      if(currentState == blockState){
-        Debug.Log("Block State");
-      }
-      if(currentState == FallState){
-        Debug.Log("Fall State");
-      }
+      // if(currentState == idleState){
+      //   Debug.Log("Idle State");
+      // }
+      // if(currentState == walkState){
+      //   Debug.Log("Walk State");
+      // }
+      // if(currentState == runState){
+      //   Debug.Log("Run State");
+      // }
+      // if(currentState == jumpState){
+      //   Debug.Log("Jump State");
+      // }
+      // if(currentState == takeDamageState){
+      //   Debug.Log("Take Damage State");
+      // }
+      // if(currentState == attack1State){
+      //   Debug.Log("Attack1 State");
+      // }
+      // if(currentState == attack2State){
+      //   Debug.Log("Attack2 State");
+      // }
+      // if(currentState == attack3State){
+      //   Debug.Log("Attack3k State");
+      // }
+      // if(currentState == blockState){
+      //   Debug.Log("Block State");
+      // }
+      // if(currentState == FallState){
+      //   Debug.Log("Fall State");
+      // }
       // Control speed based on commands (can't attack while walking etc)
       if(currentState == idleState || currentState == walkState){
         movementSpeed = walkMovementSpeed;

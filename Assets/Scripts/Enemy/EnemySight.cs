@@ -5,15 +5,16 @@ using UnityEngine;
 public class EnemySight : MonoBehaviour
 {
   public bool playerInSight;
-  public GameObject player;
-  public GameObject target;
-  public float targetDistance;
   public bool playerOnRight;
-  public Vector3 playerRelativePosition;
-  public GameObject frontTarget;
-  public GameObject backTarget;
-  public float frontTargetDistance;
-  public float backTargetDistance;
+  public float targetDistance;
+  public GameObject target;
+
+  GameObject player;
+  Vector3 playerRelativePosition;
+  GameObject frontTarget;
+  GameObject backTarget;
+  float frontTargetDistance;
+  float backTargetDistance;
 
     // Start is called before the first frame update
     void Awake()

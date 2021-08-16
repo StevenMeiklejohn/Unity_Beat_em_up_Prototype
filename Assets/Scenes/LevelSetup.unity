@@ -123,6 +123,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 23800000, guid: 15de82d581645405d82e54f6407b04c0, type: 2}
+--- !u!1 &153223751 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 467873133806195539, guid: 32e38cc4dd2f04d4380182e80c55842c, type: 3}
+  m_PrefabInstance: {fileID: 467873133954961684}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -16557,6 +16562,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4412037878859500, guid: 132aaf31c917f4a8e89012e1a97879f4, type: 3}
   m_PrefabInstance: {fileID: 989140118}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1092937686 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2931644511884749065, guid: 32e38cc4dd2f04d4380182e80c55842c, type: 3}
+  m_PrefabInstance: {fileID: 467873133954961684}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1208870831
 GameObject:
   m_ObjectHideFlags: 0
@@ -25715,6 +25725,33 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1998126740}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &2131632187 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 467873132428636463, guid: 32e38cc4dd2f04d4380182e80c55842c, type: 3}
+  m_PrefabInstance: {fileID: 467873133954961684}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2131632197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2131632187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d839a34dc86437884234003f8b3d81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackStartDelay: 0
+  attackRange: 0.6
+  spriteObject: {fileID: 153223751}
+  attack1Box: {fileID: 1092937686}
+  attack2Box: {fileID: 0}
+  attack3Box: {fileID: 0}
+  currentSprite: {fileID: 0}
+  attack1SpriteHitFrame: {fileID: 21300000, guid: 6bf272c3c3762fb439ddb32f73c191b7, type: 3}
+  attack2SpriteHitFrame: {fileID: 0}
+  attack3SpriteHitFrame: {fileID: 0}
 --- !u!1001 &467873133954961684
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25782,5 +25819,9 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 2ede926d2a1e64a8cb1c56615a7b7771, type: 2}
+    - target: {fileID: 467873133806195550, guid: 32e38cc4dd2f04d4380182e80c55842c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 38fdc95cd687b274590f356cec3d79c3, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 32e38cc4dd2f04d4380182e80c55842c, type: 3}
