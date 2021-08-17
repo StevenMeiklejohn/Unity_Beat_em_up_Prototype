@@ -17,13 +17,16 @@ GameObject:
   - component: {fileID: 2131632194}
   - component: {fileID: 2131632195}
   - component: {fileID: 2131632196}
+  - component: {fileID: 2131632197}
+  - component: {fileID: 2131632198}
+  - component: {fileID: 793194612307989063}
   m_Layer: 0
   m_Name: Robot2
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &467873132428636458
 Transform:
   m_ObjectHideFlags: 0
@@ -167,7 +170,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
-  m_StoppingDistance: 0.2
+  m_StoppingDistance: 0.1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -188,11 +191,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerInSight: 0
-  player: {fileID: 0}
-  target: {fileID: 0}
-  targetDistance: 0
   playerOnRight: 0
-  playerRelativePosition: {x: 0, y: 0, z: 0}
+  targetDistance: 0
+  target: {fileID: 0}
 --- !u!114 &2131632196
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -208,7 +209,51 @@ MonoBehaviour:
   enemyCurrentSpeed: 0
   enemySpeed: 0.5
   spriteObject: {fileID: 467873133806195539}
-  facingRight: 0
+--- !u!114 &2131632197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467873132428636463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d839a34dc86437884234003f8b3d81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackStartDelay: 0.1
+  attackRange: 0.7
+  spriteObject: {fileID: 467873133806195539}
+  attack1Box: {fileID: 2931644511884749065}
+  currentSprite: {fileID: 0}
+  attack1SpriteHitFrame: {fileID: 21300000, guid: 6bf272c3c3762fb439ddb32f73c191b7, type: 3}
+--- !u!114 &2131632198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467873132428636463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b6e617ef20714ac5b8c82a786b8b034, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentState: 0
+  spriteObject: {fileID: 467873133806195539}
+--- !u!114 &793194612307989063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467873132428636463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6285ec94287f8407bbddf8bb7d1cd748, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 10
 --- !u!1 &467873133806195539
 GameObject:
   m_ObjectHideFlags: 0
@@ -323,9 +368,10 @@ GameObject:
   - component: {fileID: 524539050582945276}
   - component: {fileID: 6663424645139744525}
   - component: {fileID: 3068112692098582111}
+  - component: {fileID: 1092937691}
   m_Layer: 0
-  m_Name: Attack1Box
-  m_TagString: Untagged
+  m_Name: enemyAttack1Box
+  m_TagString: EnemyAttackBox
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -406,6 +452,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1092937691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2931644511884749065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9583387375254e9da7d11c5130c400e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  knockDownAttack: 0
+  attackStrength: 5
 --- !u!1 &5420255474274699087
 GameObject:
   m_ObjectHideFlags: 0
@@ -418,9 +478,10 @@ GameObject:
   - component: {fileID: 5071133917391918610}
   - component: {fileID: 5056248215000297341}
   - component: {fileID: 1991917884731721635}
+  - component: {fileID: 1760975937}
   m_Layer: 0
   m_Name: Hitbox
-  m_TagString: Untagged
+  m_TagString: EnemyHitbox
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -501,3 +562,17 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1760975937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5420255474274699087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9583387375254e9da7d11c5130c400e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  knockDownAttack: 0
+  attackStrength: 0

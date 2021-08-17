@@ -46,20 +46,18 @@ public class EnemyState : MonoBehaviour
     void Update()
     {
       // Debug.Log(navMeshAgent.velocity.sqrMagnitude);
+      // if colliser script tells us we've been hit then we setbool to ("Hurt", true)
 
       if(enemySight.playerInSight == false && enemySight.targetDistance > enemyAttack.attackRange){
-        Debug.Log("not inSight");
         animator.SetBool("Walk", false);
         animator.SetBool("Attack", false);
       }
 
       if(enemySight.playerInSight == true && enemySight.targetDistance > enemyAttack.attackRange){
-        Debug.Log("inSight only");
         animator.SetBool("Walk", true);
         animator.SetBool("Attack", false);
       }
       if(enemySight.playerInSight == true && enemySight.targetDistance < enemyAttack.attackRange){
-        Debug.Log("Attacking");
         animator.SetBool("Walk", false);
         animator.SetBool("Attack", true);
       }
