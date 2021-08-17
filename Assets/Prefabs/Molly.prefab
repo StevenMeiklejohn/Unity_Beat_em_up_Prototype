@@ -220,6 +220,9 @@ MonoBehaviour:
   xMax: 1.71
   zMin: -2.78
   zMax: -1.1
+  tookDamage: 0
+  knockedDown: 0
+  stunTime: 0.1
   attack1Box: {fileID: 6157315799858310014}
   attack2Box: {fileID: 6157315800206096398}
   attack3Box: {fileID: 6157315799838327231}

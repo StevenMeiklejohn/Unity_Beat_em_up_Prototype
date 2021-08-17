@@ -12,7 +12,11 @@ public class MollyControllerScript : MonoBehaviour
   private float movementSpeed;
   private bool facingRight;
   private Rigidbody rigidBody;
+  public bool tookDamage;
+  public bool knockedDown;
+  public float stunTime;
   Animator animator;
+  Stats otherStats;
 
 
   // Animation state Machine
@@ -63,6 +67,7 @@ public class MollyControllerScript : MonoBehaviour
         attackMovementSpeed = 0.1f;
         movementSpeed = walkMovementSpeed;
         canMove = true;
+        otherStats = GetComponent<Stats>();
 
     }
 
@@ -201,14 +206,17 @@ public class MollyControllerScript : MonoBehaviour
       }
 
       // Is Hit Test
-      if(Input.GetKeyDown(KeyCode.Q)){
-        animator.SetBool("isHit", true);
-      }else{
-        animator.SetBool("isHit", false);
+      if(tookDamage == true && knockedDown == false){
+        StartCoroutine(TookDamage());
       }
+      // if(Input.GetKeyDown(KeyCode.Q)){
+      //   animator.SetBool("isHit", true);
+      // }else{
+      //   animator.SetBool("isHit", false);
+      // }
 
       // Knock Down TestPlatform
-      if(Input.GetKeyDown(KeyCode.E)){
+      if(otherStats.health <= 0){
         StartCoroutine(KnockedDown());
       }
 
@@ -233,15 +241,28 @@ public class MollyControllerScript : MonoBehaviour
 
     IEnumerator KnockedDown(){
       animator.Play("Fall");
+      animator.SetBool("KnockedDown", true);
       canMove = false;
       if(facingRight == false){
         rigidBody.AddForce(transform.right * (-1 * knockBackForce));
       }else if(facingRight == true){
         rigidBody.AddForce(transform.right * knockBackForce);
       }
-      yield return new WaitForSeconds(knockedDownTime);
+      // yield return new WaitForSeconds(knockedDownTime);
+      // animator.SetBool("KnockedDown", false);
+      // canMove = true;
+      // knockedDown = false;
+      // animator.Play("Idle");
+
+    }
+
+    IEnumerator TookDamage(){
+      animator.Play("Hurt");
+      animator.SetBool("isHit", true);
+      canMove = false;
+      yield return new WaitForSeconds(stunTime);
       canMove = true;
-      animator.Play("Idle");
+      tookDamage = false;
 
     }
 }
