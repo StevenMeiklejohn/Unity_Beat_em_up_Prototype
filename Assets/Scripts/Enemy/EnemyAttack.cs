@@ -52,7 +52,7 @@ public class EnemyAttack : MonoBehaviour
 
     void Attack(){
       navMeshAgent.ResetPath();
-      animator.SetBool("Attack", true);
+      // animator.SetBool("Attack", true);
       if(attack1SpriteHitFrame == currentSprite){
         attack1Box.gameObject.SetActive(true);
       }else{
