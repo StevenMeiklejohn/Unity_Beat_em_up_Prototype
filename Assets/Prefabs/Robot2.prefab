@@ -470,8 +470,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9583387375254e9da7d11c5130c400e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  knockDownAttack: 0
-  attackStrength: 5
+  knockDownAttack: 1
+  attackStrength: 10
 --- !u!1 &2931644511884749065
 GameObject:
   m_ObjectHideFlags: 0
@@ -801,4 +801,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   knockDownAttack: 0
-  attackStrength: 5
+  attackStrength: 6

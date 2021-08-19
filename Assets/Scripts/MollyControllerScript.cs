@@ -15,7 +15,7 @@ public class MollyControllerScript : MonoBehaviour
   public bool tookDamage;
   public bool knockedDown;
   public float stunTime;
-  Animator animator;
+  public Animator animator;
   Stats otherStats;
 
 
@@ -216,7 +216,7 @@ public class MollyControllerScript : MonoBehaviour
       // }
 
       // Knock Down TestPlatform
-      if(otherStats.health <= 0){
+      if(knockedDown == true){
         StartCoroutine(KnockedDown());
       }
 
@@ -249,20 +249,22 @@ public class MollyControllerScript : MonoBehaviour
         rigidBody.AddForce(transform.right * knockBackForce);
       }
       yield return new WaitForSeconds(knockedDownTime);
-      // animator.SetBool("KnockedDown", false);
-      // canMove = true;
-      // knockedDown = false;
-      // animator.Play("Idle");
+      animator.SetBool("KnockedDown", false);
+      canMove = true;
+      knockedDown = false;
+      animator.Play("Idle");
 
     }
 
     IEnumerator TookDamage(){
-      animator.Play("Hurt");
+      // animator.Play("TakeDamage");
       animator.SetBool("isHit", true);
       canMove = false;
       yield return new WaitForSeconds(stunTime);
       canMove = true;
       tookDamage = false;
+      // animator.SetBool("isHit", false);
+
 
     }
 }

@@ -16,7 +16,11 @@ public class AttackCollission : MonoBehaviour
       EnemyTakeDamage(other.gameObject);
     }else if(gameObject.tag == "EnemyAttackBox" && other.tag == "PlayerHitbox"){
       PlayerTakeDamage(other.gameObject);
-    }else return;
+    }else{
+      // playerState = otherObject.GetComponent<MollyControllerScript>();
+      //   playerState.animator.SetBool("isHit", false);
+      return;
+      }
   }
 
   void EnemyTakeDamage(GameObject other){
