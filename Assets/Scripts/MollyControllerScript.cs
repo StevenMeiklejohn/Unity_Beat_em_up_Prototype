@@ -248,7 +248,7 @@ public class MollyControllerScript : MonoBehaviour
       }else if(facingRight == true){
         rigidBody.AddForce(transform.right * knockBackForce);
       }
-      // yield return new WaitForSeconds(knockedDownTime);
+      yield return new WaitForSeconds(knockedDownTime);
       // animator.SetBool("KnockedDown", false);
       // canMove = true;
       // knockedDown = false;

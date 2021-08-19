@@ -226,6 +226,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Molly
       objectReference: {fileID: 0}
+    - target: {fileID: 6157315798828435325, guid: 36c54427b900f4ef29cd78e6f6628815, type: 3}
+      propertyPath: stunTime
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6157315798828435327, guid: 36c54427b900f4ef29cd78e6f6628815, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -16568,7 +16572,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1208870832
 Transform:
   m_ObjectHideFlags: 0

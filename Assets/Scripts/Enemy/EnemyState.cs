@@ -86,6 +86,12 @@ public class EnemyState : MonoBehaviour
       if(currentAnimState == attack1State){
         currentState = currentStateEnum.attack;
       }
+      if(currentAnimState == attack2State){
+        currentState = currentStateEnum.attack;
+      }
+      if(currentAnimState == attack3State){
+        currentState = currentStateEnum.attack;
+      }
       currentStateInfo = animator.GetCurrentAnimatorStateInfo(0);
       currentAnimState = currentStateInfo.fullPathHash;
 

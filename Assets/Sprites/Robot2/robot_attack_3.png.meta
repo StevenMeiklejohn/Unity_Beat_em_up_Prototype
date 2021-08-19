@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 4f1b11aa6bd1742ec900d1ac0b1925aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2929989044297929951
+    second: robot_attack_3_0
+  - first:
+      213: 1836706835270796457
+    second: robot_attack_3_1
+  - first:
+      213: 8695146285894867273
+    second: robot_attack_3_2
+  - first:
+      213: 6804894268015009553
+    second: robot_attack_3_3
+  - first:
+      213: -3171415205366090378
+    second: robot_attack_3_4
+  - first:
+      213: -3395562670694589154
+    second: robot_attack_3_5
+  - first:
+      213: -2053152637145887379
+    second: robot_attack_3_6
+  - first:
+      213: 3837741067113119853
+    second: robot_attack_3_7
+  - first:
+      213: 8443528051152152251
+    second: robot_attack_3_8
+  - first:
+      213: -1195529021870649278
+    second: robot_attack_3_9
+  - first:
+      213: -3338498182436573478
+    second: robot_attack_3_10
+  - first:
+      213: 8285501447595959065
+    second: robot_attack_3_0
+  - first:
+      213: 8515809433403458557
+    second: robot_attack_3_1
+  - first:
+      213: -3486890064877064657
+    second: robot_attack_3_2
+  - first:
+      213: -5716490782211534132
+    second: robot_attack_3_3
+  - first:
+      213: 1104927504151806420
+    second: robot_attack_3_4
+  - first:
+      213: -7989962792180866506
+    second: robot_attack_3_5
+  - first:
+      213: -8567854095575263229
+    second: robot_attack_3_6
+  - first:
+      213: 8974742643525739160
+    second: robot_attack_3_7
+  - first:
+      213: 3212659020516955540
+    second: robot_attack_3_8
+  - first:
+      213: -2534027746910089246
+    second: robot_attack_3_9
+  - first:
+      213: 4379470042821700559
+    second: robot_attack_3_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot_attack_3_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91321f90ba30cf270800000000000000
+      internalID: 8285501447595959065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 36
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df30fec9f8b3e2670800000000000000
+      internalID: 8515809433403458557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 36
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ee928d5f31c9fc0800000000000000
+      internalID: -3486890064877064657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_3
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 36
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29c7cbbe1faa0b0800000000000000
+      internalID: -5716490782211534132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_4
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 36
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1078bf5bd755f00800000000000000
+      internalID: 1104927504151806420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_5
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 36
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a8735c23fd1190800000000000000
+      internalID: -7989962792180866506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_6
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 36
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3085cd1381ed81980800000000000000
+      internalID: -8567854095575263229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_7
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 36
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892e6e152e0bc8c70800000000000000
+      internalID: 8974742643525739160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_8
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 36
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4951e569b58a59c20800000000000000
+      internalID: 3212659020516955540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_9
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 36
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efc076a03355dcd0800000000000000
+      internalID: -2534027746910089246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_attack_3_10
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 36
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb2adeecc007cc30800000000000000
+      internalID: 4379470042821700559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 76987fe6c6e744d19bfc3f23d6856cd8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
